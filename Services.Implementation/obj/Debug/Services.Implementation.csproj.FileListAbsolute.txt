@@ -1,0 +1,35 @@
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\Services.Implementation\bin\Debug\Services.Implementation.dll
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\Services.Implementation\bin\Debug\Services.Implementation.pdb
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\Services.Implementation\bin\Debug\Entities.dll
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\Services.Implementation\bin\Debug\Microsoft.VisualStudio.Shell.9.0.dll
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\Services.Implementation\bin\Debug\Services.Contracts.dll
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\Services.Implementation\bin\Debug\Microsoft.VisualStudio.Settings.dll
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\Services.Implementation\bin\Debug\Entities.pdb
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\Services.Implementation\bin\Debug\Services.Contracts.pdb
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\Services.Implementation\bin\Debug\Microsoft.VisualStudio.Shell.9.0.xml
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\Services.Implementation\bin\Debug\Microsoft.VisualStudio.Settings.xml
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\Services.Implementation\obj\Debug\Services.Implementation.csprojResolveAssemblyReference.cache
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\Services.Implementation\obj\Debug\Services.Implementation.dll
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\Services.Implementation\obj\Debug\Services.Implementation.pdb
+C:\Users\Omar\Desktop\RedundantReferencesRemover\Services.Implementation\bin\Debug\Services.Implementation.dll
+C:\Users\Omar\Desktop\RedundantReferencesRemover\Services.Implementation\bin\Debug\Services.Implementation.pdb
+C:\Users\Omar\Desktop\RedundantReferencesRemover\Services.Implementation\bin\Debug\Entities.dll
+C:\Users\Omar\Desktop\RedundantReferencesRemover\Services.Implementation\bin\Debug\Services.Contracts.dll
+C:\Users\Omar\Desktop\RedundantReferencesRemover\Services.Implementation\bin\Debug\Entities.pdb
+C:\Users\Omar\Desktop\RedundantReferencesRemover\Services.Implementation\bin\Debug\Services.Contracts.pdb
+C:\Users\Omar\Desktop\RedundantReferencesRemover\Services.Implementation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omar\Desktop\RedundantReferencesRemover\Services.Implementation\obj\Debug\Services.Implementation.dll
+C:\Users\Omar\Desktop\RedundantReferencesRemover\Services.Implementation\obj\Debug\Services.Implementation.pdb
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\Services.Implementation\bin\Debug\Services.Implementation.dll
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\Services.Implementation\bin\Debug\Services.Implementation.pdb
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\Services.Implementation\bin\Debug\Entities.dll
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\Services.Implementation\bin\Debug\Microsoft.VisualStudio.Shell.9.0.dll
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\Services.Implementation\bin\Debug\Services.Contracts.dll
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\Services.Implementation\bin\Debug\Microsoft.VisualStudio.Settings.dll
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\Services.Implementation\bin\Debug\Entities.pdb
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\Services.Implementation\bin\Debug\Services.Contracts.pdb
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\Services.Implementation\bin\Debug\Microsoft.VisualStudio.Shell.9.0.xml
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\Services.Implementation\bin\Debug\Microsoft.VisualStudio.Settings.xml
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\Services.Implementation\obj\Debug\Services.Implementation.csprojResolveAssemblyReference.cache
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\Services.Implementation\obj\Debug\Services.Implementation.dll
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\Services.Implementation\obj\Debug\Services.Implementation.pdb

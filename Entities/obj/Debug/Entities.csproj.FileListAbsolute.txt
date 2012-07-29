@@ -1,0 +1,13 @@
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\Entities\bin\Debug\Entities.dll
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\Entities\bin\Debug\Entities.pdb
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\Entities\obj\Debug\Entities.dll
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\Entities\obj\Debug\Entities.pdb
+C:\Users\Omar\Desktop\RedundantReferencesRemover\Entities\bin\Debug\Entities.dll
+C:\Users\Omar\Desktop\RedundantReferencesRemover\Entities\bin\Debug\Entities.pdb
+C:\Users\Omar\Desktop\RedundantReferencesRemover\Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omar\Desktop\RedundantReferencesRemover\Entities\obj\Debug\Entities.dll
+C:\Users\Omar\Desktop\RedundantReferencesRemover\Entities\obj\Debug\Entities.pdb
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\Entities\bin\Debug\Entities.dll
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\Entities\bin\Debug\Entities.pdb
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\Entities\obj\Debug\Entities.dll
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\Entities\obj\Debug\Entities.pdb

@@ -1,0 +1,85 @@
+﻿<UserControl x:Class="RemoverPackage.Control.SearchControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d"
+             d:DesignHeight="300" d:DesignWidth="700">
+    <UserControl.Resources>
+        <DataTemplate x:Key="sameFileTemplate">
+            <Border BorderBrush="Black" BorderThickness="1" Margin="2">
+                <Grid Margin="4">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <TextBlock Text="{Binding Name}" FontWeight="Bold"  />
+                    <ListBox Grid.Row="1" Height="auto" Margin="0,0,10,0" ItemsSource="{Binding Path=References}" Width="auto" >
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <Grid Margin="4">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto"/>
+                                        <ColumnDefinition Width="*" />
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock Text="{Binding Path= Key}" Margin="0,0,30,0" Foreground="#FFCE30C1"  />
+                                    <TextBlock Grid.Column="1" Text="{Binding Path=Value}" Foreground="#FF3781F2" />
+                                </Grid>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                </Grid>
+            </Border>
+        </DataTemplate>
+        <DataTemplate x:Key="childParentTemplate">
+            <Border BorderBrush="Black" BorderThickness="1" Margin="2">
+                <StackPanel>
+                    <Grid Margin="4">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="{Binding Parent.Name}" FontWeight="Bold" Margin="0,0,10,0" />
+                        <Label Grid.Column="1" Content="&lt;--->" HorizontalContentAlignment="Center" HorizontalAlignment="Center" Foreground="#FF2222CE"></Label>
+                        <TextBlock Grid.Column="2" Text="{Binding Child.Name}" FontWeight="Bold"  />
+                    </Grid>
+                    <ListBox Height="auto" Margin="0,0,10,0" ItemsSource="{Binding Path=Duplicates}" Width="auto" Foreground="#FFCE30C1">
+                    </ListBox>
+                </StackPanel>
+            </Border>
+        </DataTemplate>
+    </UserControl.Resources>
+
+    <Grid>
+        <StackPanel>
+            <StackPanel x:Name="Buttons" Orientation="Horizontal">
+                <Button Content="Find Duplicates" Command="{Binding FindDuplicates}" Height="23" HorizontalAlignment="Left" Margin="22,22,0,0" Name="FindDuplicatesButton" VerticalAlignment="Top" Width="112" />
+                <Button Content="Remove Duplicates" Command="{Binding RemoveDuplicates}" Height="23" Margin="40,22,0,0" Name="RemoveDuplicatesButton" Width="112" />
+            </StackPanel>
+            <Grid Margin="10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Label Content="Duplicates in same file" />
+                <ListBox Height="auto" Margin="0,0,10,0"
+                         Grid.Row="1"
+                         ItemsSource="{Binding DuplicatesInSameFile}" Width="auto"
+                         ItemTemplate="{StaticResource sameFileTemplate}" >
+                </ListBox>
+                <Label Grid.Column="1" Content="Duplicates in layout and file" />
+                <ListBox Grid.Column="1" Height="auto" Margin="0,0,10,0"
+                         Grid.Row="1"
+                         ItemsSource="{Binding DuplicatesInLayoutAndFile}" Width="auto"
+                         ItemTemplate="{StaticResource childParentTemplate}" >
+                </ListBox>
+            </Grid>
+
+        </StackPanel>
+    </Grid>
+</UserControl>

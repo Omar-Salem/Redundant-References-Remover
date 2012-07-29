@@ -1,0 +1,21 @@
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\Services.Contracts\bin\Debug\Services.Contracts.dll
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\Services.Contracts\bin\Debug\Services.Contracts.pdb
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\Services.Contracts\bin\Debug\Entities.dll
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\Services.Contracts\bin\Debug\Entities.pdb
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\Services.Contracts\obj\Debug\Services.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\Services.Contracts\obj\Debug\Services.Contracts.dll
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\Services.Contracts\obj\Debug\Services.Contracts.pdb
+C:\Users\Omar\Desktop\RedundantReferencesRemover\Services.Contracts\bin\Debug\Services.Contracts.dll
+C:\Users\Omar\Desktop\RedundantReferencesRemover\Services.Contracts\bin\Debug\Services.Contracts.pdb
+C:\Users\Omar\Desktop\RedundantReferencesRemover\Services.Contracts\bin\Debug\Entities.dll
+C:\Users\Omar\Desktop\RedundantReferencesRemover\Services.Contracts\bin\Debug\Entities.pdb
+C:\Users\Omar\Desktop\RedundantReferencesRemover\Services.Contracts\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omar\Desktop\RedundantReferencesRemover\Services.Contracts\obj\Debug\Services.Contracts.dll
+C:\Users\Omar\Desktop\RedundantReferencesRemover\Services.Contracts\obj\Debug\Services.Contracts.pdb
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\Services.Contracts\bin\Debug\Services.Contracts.dll
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\Services.Contracts\bin\Debug\Services.Contracts.pdb
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\Services.Contracts\bin\Debug\Entities.dll
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\Services.Contracts\bin\Debug\Entities.pdb
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\Services.Contracts\obj\Debug\Services.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\Services.Contracts\obj\Debug\Services.Contracts.dll
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\Services.Contracts\obj\Debug\Services.Contracts.pdb

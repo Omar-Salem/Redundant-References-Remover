@@ -1,0 +1,84 @@
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\RedundantReferencesRemover.dll
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\RedundantReferencesRemover.pdb
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\RedundantReferencesRemover.pkgdef
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\RedundantReferencesRemover.vsix
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\extension.vsixmanifest
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\Entities.dll
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\RemoverPackage.Control.dll
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\Services.Contracts.dll
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\Services.Implementation.dll
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\Entities.pdb
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\RemoverPackage.Control.pdb
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\Services.Contracts.pdb
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\Services.Implementation.pdb
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\RedundantReferencesRemover.csprojResolveAssemblyReference.cache
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\RedundantReferencesRemover.csproj.ResolveComReference.cache
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\VSPackage.resources
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\OmarGameel.RedundantReferencesRemover.Resources.resources
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\RedundantReferencesRemover.csproj.GenerateResource.Cache
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\RedundantReferencesRemover.cto
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\RedundantReferencesRemover.dll
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\RedundantReferencesRemover.pdb
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\RedundantReferencesRemover.pkgdef
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\RedundantReferencesRemover.latest.pkgdef
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\extension.vsixmanifest
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\VSPackage.resources.original
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\CtoResourceMerger.cache
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\RedundantReferencesRemover.dll
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\RedundantReferencesRemover.pdb
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\RedundantReferencesRemover.pkgdef
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\RedundantReferencesRemover.vsix
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\Entities.dll
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\RemoverPackage.Control.dll
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\Services.Contracts.dll
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\Services.Implementation.dll
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\Entities.pdb
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\RemoverPackage.Control.pdb
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\Services.Contracts.pdb
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\Services.Implementation.pdb
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\RedundantReferencesRemover.csproj.ResolveComReference.cache
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\VSPackage.resources
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\OmarGameel.RedundantReferencesRemover.Resources.resources
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\RedundantReferencesRemover.cto
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\VSCT.read.1.tlog
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\VSCT.write.1.tlog
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\VSPackage.resources.original
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\CtoResourceMerger.cache
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\RedundantReferencesRemover.dll
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\RedundantReferencesRemover.pdb
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\RedundantReferencesRemover.pkgdef
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\RedundantReferencesRemover.latest.pkgdef
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\extension.vsixmanifest
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\repeat.png
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\RedundantReferencesRemover.dll
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\RedundantReferencesRemover.pdb
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\RedundantReferencesRemover.pkgdef
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\RedundantReferencesRemover.vsix
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\extension.vsixmanifest
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\Entities.dll
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\RemoverPackage.Control.dll
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\Services.Contracts.dll
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\Services.Implementation.dll
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\Entities.pdb
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\RemoverPackage.Control.pdb
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\Services.Contracts.pdb
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\bin\Debug\Services.Implementation.pdb
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\RedundantReferencesRemover.csprojResolveAssemblyReference.cache
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\RedundantReferencesRemover.csproj.ResolveComReference.cache
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\RedundantReferencesRemover.g.resources
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\VSPackage.resources
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\OmarGameel.RedundantReferencesRemover.Resources.resources
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\RedundantReferencesRemover.csproj.GenerateResource.Cache
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\RedundantReferencesRemover.cto
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\VSCT.read.1.tlog
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\VSCT.write.1.tlog
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\VSPackage.resources.original
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\CtoResourceMerger.cache
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\RedundantReferencesRemover.dll
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\RedundantReferencesRemover.pdb
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\RedundantReferencesRemover.pkgdef
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\RedundantReferencesRemover.latest.pkgdef
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RedundantReferencesRemover\obj\Debug\extension.vsixmanifest

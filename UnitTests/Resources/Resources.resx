@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="mvc3Child" xml:space="preserve">
+    <value>@using System.Web.Mvc.Ajax
+@using System.Web.Mvc.Html
+@using System.Web.Mvc;
+@model IEnumerable&lt;Entities.AuditedOperation&gt;
+           &lt;script src="@Url.Content("~/Scripts/modernizr-1.7.min.js")" type="text/javascript"&gt;&lt;/script&gt;
+&lt;table width="100%" border="0" cellspacing="0" cellpadding="0"&gt;
+    &lt;tr&gt;
+        &lt;td class="sep_padding"&gt;
+            &lt;table width="100%" border="0" cellspacing="0" cellpadding="0"&gt;
+                &lt;tr&gt;
+                    &lt;td class="section_tit"&gt;
+                        User File Moves&lt;a href="#"&gt;&lt;img alt="" src="../../Content/images/icon_info.png"
+                            width="14" height="14" hspace="7" vspace="2" border="0" align="right" /&gt;&lt;/a&gt;&lt;a href="#"&gt;&lt;img
+                                alt="" src="../../Content/images/icon_print.png" width="16" height="16" hspace="4"
+                                border="0" align="right" /&gt;&lt;/a&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td class="stat"&gt;
+                        @{
+                            if (Model.Count() &gt; 0)
+                            {
+                                var grid = new WebGrid(source: Model, rowsPerPage: 20, ajaxUpdateContainerId: "grid");    
+                            @grid.GetHtml(htmlAttributes: new { id = "grid" }, tableStyle: "ordertable", headerStyle: "stat_grid_tit", rowStyle: "grid2", alternatingRowStyle: "grid1",
+ columns: grid.Columns(
+                  grid.Column("ObjectName", "File Name", format: (item) =&gt; Html.ActionLink((string)item.ObjectName, MVC.Details.ActionNames.FileDetails, MVC.Details.Name, new { objectName = item.ObjectName }, null)),
+                  grid.Column("FullPathName", "Directory Path",format: @&lt;text&gt;@Html.ToolTip((string)item.FullPathName, 10)&lt;/text&gt;),
+
+grid.Column("PolicyName", "Policy"),
+grid.Column("FileSize", "Size"),
+grid.Column("OwnerAccount", "Owner"),
+grid.Column("ClientMachineName", "ClientMachineName"),
+                     grid.Column("ServerName", "Host"),
+grid.Column("UserAccount", "User Account", format: (item) =&gt; Html.ActionLink((string)item.UserAccount, MVC.Details.ActionNames.UserDetails, MVC.Details.Name, new { UserName = item.UserAccount }, null)),
+grid.Column("ReceivedTime", "Date")))
+    
+                            }
+                            else
+                            {
+                            &lt;p&gt;
+                                No data found&lt;/p&gt; 
+                            }
+                        }
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;</value>
+  </data>
+  <data name="mvc3PageWithChild" xml:space="preserve">
+    <value>@{
+    ViewBag.Title = "TestViewPage";
+    Layout = "~/Views/Shared/AnotherLayout.cshtml";
+}
+&lt;script src="@Url.Content("~/Scripts/modernizr-1.7.min.js")" type="text/javascript"&gt;&lt;/script&gt;
+&lt;h2&gt;@{Html.RenderPartial("Child")}&lt;/h2&gt;</value>
+  </data>
+  <data name="mvc3PageWithAnotherLayout" xml:space="preserve">
+    <value>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;meta charset="utf-8" /&gt;\
+    Layout = "~/Views/Shared/AnotherLayout.cshtml";
+    &lt;title&gt;@ViewBag.Title&lt;/title&gt;
+    &lt;link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" /&gt;
+    &lt;script src="@Url.Content("~/Scripts/jquery-1.5.1.min.js")" type="text/javascript"&gt;&lt;/script&gt;
+    &lt;script src="@Url.Content("~/Scripts/modernizr-1.7.min.js")" type="text/javascript"&gt;&lt;/script&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+    @RenderBody()
+&lt;/body&gt;
+&lt;/html&gt;</value>
+  </data>
+  <data name="webPage" xml:space="preserve">
+    <value>&lt;%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true"
+    CodeBehind="Default.aspx.cs" Inherits="WebApplication1._Default" %&gt;
+
+&lt;%@ Register src="WebUserControl1.ascx" tagname="WebUserControl1" tagprefix="uc1" %&gt;
+
+&lt;asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent"&gt;
+&lt;/asp:Content&gt;
+&lt;asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent"&gt;
+    &lt;h2&gt;
+        Welcome to ASP.NET!
+
+
+    &lt;/h2&gt;
+    &lt;p&gt;
+        To learn more about ASP.NET visit &lt;a href="http://www.asp.net" title="ASP.NET Website"&gt;www.asp.net&lt;/a&gt;.
+        &lt;uc1:WebUserControl1 ID="WebUserControl11" runat="server" /&gt;
+    &lt;/p&gt;
+    &lt;p&gt;
+        You can also find &lt;a href="http://go.microsoft.com/fwlink/?LinkID=152368&amp;amp;clcid=0x409"
+            title="MSDN ASP.NET Docs"&gt;documentation on ASP.NET at MSDN&lt;/a&gt;.
+    &lt;/p&gt;
+&lt;/asp:Content&gt;</value>
+  </data>
+  <data name="webPageWithRefs" xml:space="preserve">
+    <value>&lt;%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="WebApplication1.SiteMaster" %&gt;
+
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"&gt;
+&lt;head runat="server"&gt;
+    &lt;title&gt;&lt;/title&gt;
+    &lt;link href="~/Styles/Site.css" rel="stylesheet" type="text/css" /&gt;
+    &lt;script src="Scripts/jquery-1.4.1-vsdoc.js" type="text/javascript"&gt;&lt;/script&gt;
+    &lt;script src="Scripts/jquery-1.4.1.min.js" type="text/javascript"&gt;&lt;/script&gt;
+    &lt;asp:ContentPlaceHolder ID="HeadContent" runat="server"&gt;
+    &lt;/asp:ContentPlaceHolder&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;form runat="server"&gt;
+    &lt;div class="page"&gt;
+        &lt;div class="header"&gt;
+            &lt;div class="title"&gt;
+                &lt;h1&gt;
+                    My ASP.NET Application
+                &lt;/h1&gt;
+            &lt;/div&gt;
+            &lt;div class="loginDisplay"&gt;
+                &lt;asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false"&gt;
+                    &lt;AnonymousTemplate&gt;
+                        [ &lt;a href="~/Account/Login.aspx" ID="HeadLoginStatus" runat="server"&gt;Log In&lt;/a&gt; ]
+                    &lt;/AnonymousTemplate&gt;
+                    &lt;LoggedInTemplate&gt;
+                        Welcome &lt;span class="bold"&gt;&lt;asp:LoginName ID="HeadLoginName" runat="server" /&gt;&lt;/span&gt;!
+                        [ &lt;asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="Log Out" LogoutPageUrl="~/"/&gt; ]
+                    &lt;/LoggedInTemplate&gt;
+                &lt;/asp:LoginView&gt;
+            &lt;/div&gt;
+            &lt;div class="clear hideSkiplink"&gt;
+                &lt;asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal"&gt;
+                    &lt;Items&gt;
+                        &lt;asp:MenuItem NavigateUrl="~/Default.aspx" Text="Home"/&gt;
+                        &lt;asp:MenuItem NavigateUrl="~/About.aspx" Text="About"/&gt;
+                    &lt;/Items&gt;
+                &lt;/asp:Menu&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="main"&gt;
+            &lt;asp:ContentPlaceHolder ID="MainContent" runat="server"/&gt;
+        &lt;/div&gt;
+        &lt;div class="clear"&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="footer"&gt;
+        
+    &lt;/div&gt;
+    &lt;/form&gt;
+&lt;/body&gt;
+&lt;/html&gt;</value>
+  </data>
+  <data name="mvc3ViewStart" xml:space="preserve">
+    <value>@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}</value>
+  </data>
+  <data name="mvc3DefaultLayout" xml:space="preserve">
+    <value>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;title&gt;@ViewBag.Title&lt;/title&gt;
+    &lt;link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" /&gt;&lt;script src="@Url.Content("~/Scripts/jquery-1.5.1.min.js")" type="text/javascript"&gt;&lt;/script&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+    @RenderBody()
+&lt;/body&gt;
+&lt;/html&gt;</value>
+  </data>
+  <data name="mvc3WithDefaultLayout" xml:space="preserve">
+    <value>@{
+    ViewBag.Title = "ViewPage1";
+}
+&lt;link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" /&gt;
+&lt;h2&gt;ViewPage1&lt;/h2&gt;</value>
+  </data>
+  <data name="mvc3AnotherLayout" xml:space="preserve">
+    <value>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;meta charset="utf-8" /&gt;\
+    &lt;title&gt;@ViewBag.Title&lt;/title&gt;
+    &lt;script src="@Url.Content("~/Scripts/jquery-1.5.1.min.js")" type="text/javascript"&gt;&lt;/script&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+    @RenderBody()
+&lt;/body&gt;
+&lt;/html&gt;</value>
+  </data>
+  <data name="webControl" xml:space="preserve">
+    <value>Controls and stuff</value>
+  </data>
+  <data name="mvc3MultipleLayouts" xml:space="preserve">
+    <value>@{
+    ViewBag.Title = "ViewPage1";
+	Layout = "~/Views/Shared/DefaultLayout.cshtml";
+	Layout = "~/Views/Shared/AnotherLayout.cshtml";
+}
+&lt;link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" /&gt;
+&lt;h2&gt;ViewPage1&lt;/h2&gt;</value>
+  </data>
+</root>

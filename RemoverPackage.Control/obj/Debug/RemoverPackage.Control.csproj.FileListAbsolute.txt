@@ -1,0 +1,42 @@
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RemoverPackage.Control\bin\Debug\RemoverPackage.Control.dll
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RemoverPackage.Control\bin\Debug\RemoverPackage.Control.pdb
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RemoverPackage.Control\bin\Debug\Entities.dll
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RemoverPackage.Control\bin\Debug\Services.Contracts.dll
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RemoverPackage.Control\bin\Debug\Services.Implementation.dll
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RemoverPackage.Control\bin\Debug\Entities.pdb
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RemoverPackage.Control\bin\Debug\Services.Contracts.pdb
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RemoverPackage.Control\bin\Debug\Services.Implementation.pdb
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\RemoverPackage.Control.csprojResolveAssemblyReference.cache
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\Views\SearchControl.baml
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\Views\SearchControl.g.cs
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\RemoverPackage.Control_MarkupCompile.cache
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\RemoverPackage.Control.g.resources
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\RemoverPackage.Control.Properties.Resources.resources
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\RemoverPackage.Control.csproj.GenerateResource.Cache
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\RemoverPackage.Control.dll
+C:\Users\OSalem\Documents\Visual Studio 2010\Projects\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\RemoverPackage.Control.pdb
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\Views\SearchControl.baml
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\Views\SearchControl.g.cs
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\RemoverPackage.Control_MarkupCompile.cache
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\RemoverPackage.Control.g.resources
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\RemoverPackage.Control.Properties.Resources.resources
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Omar\Desktop\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RemoverPackage.Control\bin\Debug\RemoverPackage.Control.dll
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RemoverPackage.Control\bin\Debug\RemoverPackage.Control.pdb
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RemoverPackage.Control\bin\Debug\Entities.dll
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RemoverPackage.Control\bin\Debug\Services.Contracts.dll
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RemoverPackage.Control\bin\Debug\Services.Implementation.dll
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RemoverPackage.Control\bin\Debug\Entities.pdb
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RemoverPackage.Control\bin\Debug\Services.Contracts.pdb
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RemoverPackage.Control\bin\Debug\Services.Implementation.pdb
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\RemoverPackage.Control.csprojResolveAssemblyReference.cache
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\Views\SearchControl.baml
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\Views\SearchControl.g.cs
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\RemoverPackage.Control_MarkupCompile.cache
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\RemoverPackage.Control.g.resources
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\RemoverPackage.Control.Properties.Resources.resources
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\RemoverPackage.Control.csproj.GenerateResource.Cache
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\RemoverPackage.Control.dll
+C:\Users\OSalem\Desktop\RedundantReferencesRemover\RemoverPackage.Control\obj\Debug\RemoverPackage.Control.pdb
